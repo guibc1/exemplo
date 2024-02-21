@@ -1,2 +1,4 @@
 # exemplo
-exemplo de repositório em Git +Github
+programacao 3 (23/24)
+exemplo de um repositório em Git +Github
+Repositorio de exemplo
